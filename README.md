@@ -9,5 +9,5 @@ Welcome to my GitHub!
 
 Although my current focus is in **Full Stack Development**, this space (`@ujjwalkar21`) preserves my foundation in Data Science and early explorations in ML.  
 
-👉 Explore my active Full Stack projects: [github.com/ujjwalkar0](https://github.com/ujjwalkar0)  
+👉 Explore my active Full Stack projects: [@ujjwalkar0](https://github.com/ujjwalkar0)  
 📫 Connect: [LinkedIn](https://linkedin.com/in/ujjwalkar21)
