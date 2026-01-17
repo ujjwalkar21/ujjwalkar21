@@ -12,4 +12,4 @@ Although my current focus is in **Full Stack Development**, this space (`@ujjwal
 👉 Explore my active Full Stack projects: [@ujjwalkar0](https://github.com/ujjwalkar0)  
 📫 Connect: [LinkedIn](https://linkedin.com/in/ujjwalkar21)
 
-[![Kaggle](https://img.shields.io)](https://www.kaggle.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/ujjwalkar)
